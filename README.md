@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regvedpande&label=Profile%20views&color=0e75b6&style=flat" alt="regvedpande" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/regvedp" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/regvedp?logo=twitter&style=for-the-badge" alt="https://twitter.com/regvedp" /></a> </p>
-
 - 🔭 I’m currently working on [E-Commerce Applications](https://github.com/regvedpande/Ecommerce_Clones.git)
 
 - 🌱 I’m currently learning **JavaScript**
