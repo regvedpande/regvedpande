@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Applications](https://github.com/regvedpande/Ecommerce_Clones.git)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Spring Architecture**
 
 - 👯 I’m looking to collaborate on **Real-time Application**
 
