@@ -102,11 +102,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=regvedpande&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" width="98%" />
 </div>
 
-<!-- Contribution Graph -->
-<div style="background: linear-gradient(45deg, #000428, #004e92); padding: 20px; border-radius: 10px; margin: 20px 0;">
-<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Cbtjtn9gbPJyRVEQhBpODOh0LP3bf8.png" width="98%" />
-</div>
-
 <!-- Connect -->
 <div style="background: linear-gradient(45deg, #141E30, #243B55); padding: 20px; border-radius: 10px; margin: 20px 0;">
 <h2 align="center">🤝 Connect With Me</h2>
