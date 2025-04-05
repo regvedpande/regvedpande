@@ -109,20 +109,20 @@
 </div>
 </div>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - Fixed URLs to ensure they work properly -->
 <div style="background: linear-gradient(45deg, #0A192F, #112240); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
 <h2 style="color: white; margin-bottom: 15px; text-shadow: 0 2px 4px rgba(0,0,0,0.3); text-align: center;">📊 GitHub Statistics</h2>
 <div style="display: flex; justify-content: space-between; gap: 2%; flex-wrap: wrap;">
-<img src="https://github-readme-stats.vercel.app/api?username=regvedpande&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icons=github" style="width: 49%; min-width: 300px; margin-bottom: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=regvedpande&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" style="width: 49%; min-width: 300px; margin-bottom: 10px;" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=regvedpande&theme=radical&hide_border=true&background=0D1117&fire=FFA500&ring=FFA500" style="width: 49%; min-width: 300px; margin-bottom: 10px;" />
 </div>
 </div>
 
-<!-- Most Used Languages - Improved Design -->
+<!-- Most Used Languages - Made 30% smaller -->
 <div style="background: linear-gradient(45deg, #16222A, #3A6073); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
 <h2 style="color: white; margin-bottom: 15px; text-shadow: 0 2px 4px rgba(0,0,0,0.3); text-align: center;">💻 Most Used Languages</h2>
 <div style="display: flex; justify-content: center; background: rgba(255,255,255,0.05); border-radius: 10px; padding: 15px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regvedpande&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" style="width: 60%; max-width: 450px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regvedpande&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" style="width: 42%; max-width: 315px;" />
 </div>
 </div>
 
@@ -145,14 +145,6 @@
 <a href="mailto:regregd@outlook.com">
 <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
-</div>
-
-<!-- Visitor Counter -->
-<div style="background: linear-gradient(45deg, #000000, #434343); padding: 15px; border-radius: 12px; margin: 15px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-<h2 style="color: white; margin-bottom: 10px; text-shadow: 0 2px 4px rgba(0,0,0,0.3); text-align: center;">👁️ Profile Visitors</h2>
-<p align="center">
-<img src="https://profile-counter.glitch.me/regvedpande/count.svg" alt="Visitor Count" />
 </p>
 </div>
 
