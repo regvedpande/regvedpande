@@ -31,21 +31,6 @@
 <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 </div>
-
-<!-- Java Stack -->
-<div style="background: linear-gradient(45deg, #E76F00, #5382A1); padding: 20px; border-radius: 12px; margin: 15px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-<h2 style="color: white; margin-bottom: 15px; text-shadow: 0 2px 4px rgba(0,0,0,0.3); text-align: center;">☕ Java Ecosystem</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-%23BC6F00.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" />
-<img src="https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-%23FF6B6B.svg?style=for-the-badge&logoColor=white" />
-</div>
-</div>
-
 <!-- AI/ML Section -->
 <div style="background: linear-gradient(45deg, #000000, #434343); padding: 20px; border-radius: 12px; margin: 15px 0; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
 <h2 align="center" style="color: #fff; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🤖 AI/ML Stack</h2>
